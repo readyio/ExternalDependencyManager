@@ -1,13 +1,7 @@
 fileFormatVersion: 2
-guid: d67e36cf70144eeeb62948707545ecfd
+guid: dd6a29a412594aadb37d9698db325eca
 labels:
 - gvh
-- gvh_version-1.2.152
+- gvh_version-1.2.153
 - gvhp_exportpath-CHANGELOG.md
-- gvhp_exportpath-ExternalDependencyManager/Editor/CHANGELOG.md
-timeCreated: 1584567712
-licenseType: Pro
-TextScriptImporter:
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+timeCreated: 0

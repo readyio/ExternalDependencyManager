@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: bda23e9f6eb0439a9b2784eef4422d30
+guid: 72eb05c6500a48daad345975d501a491
 labels:
 - gvh
-- gvh_version-1.2.152
-- gvhp_exportpath-ExternalDependencyManager/Editor/Google.IOSResolver_v1.2.152.dll.mdb
+- gvh_version-1.2.153
+- gvhp_exportpath-ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.153.dll.mdb
 - gvhp_targets-editor
 timeCreated: 1538009133
 licenseType: Pro
