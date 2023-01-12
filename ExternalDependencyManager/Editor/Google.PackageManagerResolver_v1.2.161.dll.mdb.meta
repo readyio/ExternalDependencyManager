@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: c9468fb6ca73426aa50edeafff06e546
+guid: d6c69dfa10e14fd38ebed46506f3b971
 labels:
 - gvh
-- gvh_version-1.2.160
-- gvhp_exportpath-ExternalDependencyManager/Editor/Google.VersionHandlerImpl_v1.2.160.dll.mdb
+- gvh_version-1.2.161
+- gvhp_exportpath-ExternalDependencyManager/Editor/Google.PackageManagerResolver_v1.2.161.dll.mdb
 - gvhp_targets-editor
 timeCreated: 1538009133
 licenseType: Pro
