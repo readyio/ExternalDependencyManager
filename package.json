@@ -1,13 +1,8 @@
 {
   "unity": "2017.1", 
-  "author": {
-    "name": "Google LLC", 
-    "url": "https://github.com/googlesamples/unity-jar-resolver"
-  }, 
   "dependencies": {}, 
-  "version": "1.2.144", 
   "name": "com.google.external-dependency-manager", 
-  "displayName": "External Dependency Manager for Unity", 
+  "version": "1.2.145", 
   "keywords": [
     "Google", 
     "Android", 
@@ -20,5 +15,10 @@
     "vh-name:unity-jar-resolver", 
     "vh_name:external-dependency-manager"
   ], 
-  "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs), iOS CocoaPods, version management of transitive dependencies, and/or management of Unity Package Manager registries."
+  "author": {
+    "name": "Google LLC", 
+    "url": "https://github.com/googlesamples/unity-jar-resolver"
+  }, 
+  "description": "External Dependency Manager for Unity (EDM4U) can be used by any Unity plugin that requires Android specific libraries (e.g. AARs), iOS CocoaPods, version management of transitive dependencies, and/or management of Unity Package Manager registries.", 
+  "displayName": "External Dependency Manager for Unity"
 }
