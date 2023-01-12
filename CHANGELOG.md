@@ -1,3 +1,17 @@
+# Version 1.2.151 - Apr 16, 2020
+## Bug Fixes
+* Version Handler: When waiting for newly enabled editor DLLs to load, ignore
+  all DLLs that do not have a file-system location.
+* Android Resolver: Fixed resolution when using a Custom Gradle Template with
+  libraries stored in a local maven repository distributed with a plugin
+  installed with the Unity Package Manager.
+
+# Version 1.2.150 - Apr 9, 2020
+## Bug Fixes
+* All: The new packaging script when run on MacOS was generating a
+  .unitypackage archive that could not be read by Unity on Windows.
+  This release simply repackages the plugin with tar/gzip to fix the problem.
+
 # Version 1.2.149 - Apr 8, 2020
 ## Bug Fixes
 * Unity Package Manager Resolver: Fixed spurious error message when resuming
